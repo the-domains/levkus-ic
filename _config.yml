@@ -1,0 +1,28 @@
+name: Levkus-IC
+favicon: null
+layout_spectrum: 0.7561273954343051
+typography_spectrum: 0.8321112145204097
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.10703108925372362
+  lightness: 0.8923229912761599
+  saturation: 0.5360585877206177
+  rhythmicContrast: 0.3445180314593017
+purpose: []
